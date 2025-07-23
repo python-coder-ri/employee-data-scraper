@@ -29,9 +29,12 @@ Install the required packages:
 
 ```bash
 pip install selenium webdriver-manager pandas openpyxl
+```
 
+## Usage
 
+python datatable_export_all_pages.py
 
+## Output
 
-
-
+An Excel file (datatable_export_all_pages.xlsx) saved to your specified folder.
