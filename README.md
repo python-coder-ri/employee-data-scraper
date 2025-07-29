@@ -38,3 +38,7 @@ python datatable_export_all_pages.py
 ## Output
 
 An Excel file (datatable_export_all_pages.xlsx) saved to your specified folder.
+
+## Screenshot
+
+![Employee Data from DataTables.net](Employee-Data-from-DataTables.net.png)
